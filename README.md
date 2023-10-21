@@ -9,11 +9,11 @@ Fitur Utama:
 
 
 Teknologi Utama:
-Bahasa Pemrograman: (Misalnya: Node.js)
-Framework: (Misalnya: Express.js)
-Database: (Misalnya: MongoDB)
-Autentikasi dan Otorisasi: (Misalnya: JSON Web Tokens)
-Notifikasi Real-Time: (Misalnya: Socket.io)
+Bahasa Pemrograman: Golang
+Framework: Echo
+Database: Mysql
+Autentikasi dan Otorisasi: JSON Web Token
+
 Kontribusi:
 Kami sangat terbuka untuk kontribusi dari komunitas. Jika Anda ingin berkontribusi, silakan lihat Panduan Kontribusi.
 
@@ -21,7 +21,7 @@ Lisensi:
 Proyek ini dilisensikan di bawah [Nama Lisensi] (link_ke_file_lisensi). Silakan baca lisensi untuk ketentuan penggunaan.
 
 Penulis:
-Dikembangkan oleh [Nama Anda] (link_ke_profil_anda).
+Dikembangkan oleh Ihyamars (link_ke_profil_anda).
 
 Hubungi Kami:
 Jika Anda memiliki pertanyaan atau masukan, silakan hubungi kami di ihyamars@gmail.com
